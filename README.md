@@ -1,3 +1,3 @@
-#   Git Tutorial
+#   Git 
 
 Git and Github tutorial
